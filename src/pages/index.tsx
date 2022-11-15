@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1>My Next App</h1>
+        <h1>좃소님의 Next App 입닏나.</h1>
       </main>
       <footer>
         <span>Footer</span>
